@@ -1,2 +1,3 @@
 # Linear-Regression-using-Python
-Building a linear regression model for an ecommerce company to help make better decisions
+
+This project focusses on an Ecommerce company that wants to gain some insights in order to make better business decisions.
